@@ -1,4 +1,4 @@
-## Hi there 👋
+## I explore AI through research in language, robotics, and simulation!!
 
 <!--
 **Yusuke710/Yusuke710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
